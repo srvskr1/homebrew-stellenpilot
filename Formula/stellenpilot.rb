@@ -3,8 +3,8 @@ class Stellenpilot < Formula
 
   desc "Local job search assistant for Germany that scores jobs against your CV"
   homepage "https://stellenpilot.dev"
-  url "https://files.pythonhosted.org/packages/f9/04/f3fe05f5f106cfdace83e58e3f16e1be2b00eeee8e380e621b7cf2a019f8/stellenpilot-0.12.0.tar.gz"
-  sha256 "b24c6bee29620544a1e3593ad0243573cd701b7eebbed6884aca82ae368e5ebe"
+  url "https://files.pythonhosted.org/packages/a3/f8/b74e6954302dd3de2dba64b80fff12822f28d96c2c0fdb77e3bcd0a2b908/stellenpilot-0.12.1.tar.gz"
+  sha256 "ab4f44f183c57bee1a84553455b6f561ca8319c82bd0ff556772bbafd22c23cc"
   license "MIT"
 
   depends_on "python@3.13"
