@@ -3,8 +3,8 @@ class Stellenpilot < Formula
 
   desc "Local job search assistant for Germany that scores jobs against your CV"
   homepage "https://stellenpilot.dev"
-  url "https://files.pythonhosted.org/packages/11/64/0be00c22168c3f44853679b8ad8b36a40d3dae44a39e0477ec88578de1e6/stellenpilot-0.12.2.tar.gz"
-  sha256 "cbd633514a3640e9160e8fd7cb81ca39b5c1ffe7cb57df00149e88eb235e12a0"
+  url "https://files.pythonhosted.org/packages/66/2b/7801eafa73c98a3d70a9360014be3808df72231d59dba5d9265ab391d27c/stellenpilot-0.12.3.tar.gz"
+  sha256 "4ecc08d92c8b72b4247b312c953ca552e888f175cd1fe5e8f71c35c067d375e5"
   license "MIT"
 
   depends_on "python@3.13"
@@ -20,8 +20,8 @@ class Stellenpilot < Formula
   end
 
   resource "pypdf" do
-    url "https://files.pythonhosted.org/packages/03/29/5c99ad4d9c3d942d3cf0439d633b98e2723757ec863d6f287ffd85465368/pypdf-6.21.3.tar.gz"
-    sha256 "11e1ca6d6cc8ca322558a3a974078d5ebc0f3a2104b8e673eee25621ee97abd8"
+    url "https://files.pythonhosted.org/packages/1e/e1/ec8f4d155c997c45917153a5521e60d6ee6389d68abdcbc8e44e564caffc/pypdf-6.21.4.tar.gz"
+    sha256 "c8817e3f888d47a087872ded69812c1ef30cacb871d6e053e0c00bbaf0bc2163"
   end
 
   resource "python-docx" do
